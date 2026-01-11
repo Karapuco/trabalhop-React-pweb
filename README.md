@@ -25,6 +25,7 @@ Foi utilizada a **FakeStore API**, uma API REST pública de e-commerce.
 
 O consumo da API está centralizado no ficheiro:
 
+src/services/api.js
 
 ---
 
