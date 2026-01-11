@@ -1,5 +1,11 @@
 # 🛒 Loja Online – Projeto React (E-commerce)
 
+## 👥 Autores
+- **Tomás Noronha** — a042458  
+- **Duarte Rocha** — a047439  
+
+---
+
 ## 📌 Descrição
 Este projeto consiste no desenvolvimento de uma aplicação frontend em **React** que simula uma loja online (e-commerce), consumindo uma **API REST pública**.  
 O objetivo é demonstrar o uso de React, Hooks, React Router, gestão de estado global e boas práticas de organização de código.
